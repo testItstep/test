@@ -21,6 +21,11 @@ namespace testProject
             return a - b;
         }
 
+        static int getMult(int a, int b)
+        {
+            return a * b;
+        }
+
 
     }
 }
