@@ -11,5 +11,9 @@ namespace testProject
         static void Main(string[] args)
         {
         }
+
+        static int getSum(int a, int b) {
+            return a + b;
+        }
     }
 }
