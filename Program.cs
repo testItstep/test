@@ -15,5 +15,12 @@ namespace testProject
         static int getSum(int a, int b) {
             return a + b;
         }
+
+        static int getDiff(int a, int b)
+        {
+            return a - b;
+        }
+
+
     }
 }
